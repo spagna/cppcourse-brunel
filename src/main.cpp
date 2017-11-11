@@ -10,8 +10,8 @@ int main()
 	Simulation sim;
 	//sim.oneNeuronSimulation();
 	//sim.twoNeruonsSimulation();
-	//sim.networkSimulation(5,2);
-	sim.plotGraph_A();
+	sim.networkSimulation(5,2);
+	//sim.plotGraph_A();
 	//sim.plotGraph_B();
 	//sim.plotGraph_C();
 	//sim.plotGraph_D();
