@@ -1,0 +1,5 @@
+build/*
+gtest
+CMakeFiles
+inc/html
+inc/latex
